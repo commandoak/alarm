@@ -17,7 +17,7 @@
     "@rematch/loading": "^1.2.1",
     "@rematch/persist": "^1.1.6",
     "@types/lodash": "^4.14.155",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "~37.0.3",
     "expo-constants": "~9.0.0",
     "expo-splash-screen": "^0.2.3",
